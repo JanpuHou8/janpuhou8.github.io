@@ -1,4 +1,4 @@
-![Alt Text](/assets/img/janpu.jpg)
+![Alt Text](/assets/img/janpu.png)
 
 Janpu is the Chief Data Scientist at Caloudi Corporation which is a partner of The Talent Circulation Alliance. More information about Caloudi can be found at [caloudi.com](https://caloudi.com/)
 
